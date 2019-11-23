@@ -1,0 +1,14 @@
+C:\Users\1096687\Desktop\ProvaAPI\bin\Debug\netcoreapp2.1\ProvaAPI.deps.json
+C:\Users\1096687\Desktop\ProvaAPI\bin\Debug\netcoreapp2.1\ProvaAPI.runtimeconfig.json
+C:\Users\1096687\Desktop\ProvaAPI\bin\Debug\netcoreapp2.1\ProvaAPI.runtimeconfig.dev.json
+C:\Users\1096687\Desktop\ProvaAPI\bin\Debug\netcoreapp2.1\ProvaAPI.dll
+C:\Users\1096687\Desktop\ProvaAPI\bin\Debug\netcoreapp2.1\ProvaAPI.pdb
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.csprojAssemblyReference.cache
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.csproj.CoreCompileInputs.cache
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.RazorAssemblyInfo.cache
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.RazorAssemblyInfo.cs
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.AssemblyInfoInputs.cache
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.AssemblyInfo.cs
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.dll
+C:\Users\1096687\Desktop\ProvaAPI\obj\Debug\netcoreapp2.1\ProvaAPI.pdb
